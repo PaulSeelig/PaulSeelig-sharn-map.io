@@ -9,7 +9,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "A merchant disterict offering legal goods and services of modest to comfortable quality.",
             "name": "Tradefair",
             "notableLocations": {
                 "description": [],
@@ -17,7 +17,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "Catering to Sharn's elite, this district provides a wide range of shops and services of wealthy and aristocratic quality.",
             "name": "Platinum Heights",
             "notableLocations": {
                 "description": [],
@@ -27,7 +27,7 @@
     },
     "C2": {
         "lower": {
-            "description": "",
+            "description": "A haven for travelers, this district contains reliable inns ranging from modest to comfortable.",
             "name": "Boldrei's Hearth",
             "notableLocations": {
                 "description": [],
@@ -35,7 +35,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "A District filled with a vast assortment of temples and shrines. It is home to the two most important temples in sharn: the Pavilion of the Host and the Cathedral of the Cleansing Flame",
             "name": "Sovereign Towers",
             "notableLocations": {
                 "description": [],
@@ -53,7 +53,7 @@
     },
     "C3": {
         "lower": {
-            "description": "",
+            "description": "Neither the best nor the worst Sharn has to offer, Olladra's Kitchen is home to a wide number of taverns and restaurants of modest to comfortable quality.",
             "name": "Olladra's Kitchen",
             "notableLocations": {
                 "description": [],
@@ -61,7 +61,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "This garrison district houses the forces that police and defend Central Plateau, including the Sharn Watch and a detachment of the royal army.",
             "name": "Sword Point",
             "notableLocations": {
                 "description": [],
@@ -69,7 +69,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "Home to three sprawling rootop parks, this district provides a touch of wilderness in the heart of the city. A small community of immigrants from the Eldeen Reaches maintains these groves and gardens.",
             "name": "Skysedge Park",
             "notableLocations": {
                 "description": [],
@@ -87,7 +87,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "This is the primary place to do business with representatives of the dragonmarked houses. All the houses have outposts here, and Sivis, Tharashk, Jorasco and Cannith have their primary enclaves in Dragon Towers.",
             "name": "Dragon Towers",
             "notableLocations": {
                 "description": [],
@@ -95,7 +95,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "The seat of city government, this district is also where airships arrive and depart.",
             "name": "Highest Towers",
             "notableLocations": {
                 "description": [],
@@ -139,7 +139,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "This district contains the embassies of the Thronehold nations, along with Aerenal and Riedra. It's also the seat of the Citadel and home to the Brelish Museum of Fine Art.",
             "name": "Ambassador Towers",
             "notableLocations": {
                 "description": [],
@@ -147,7 +147,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "Named after the great temple of Kol Korran that lies at its center, this district is dedicated to wealth and finance. Moneychangers, banks, and grand vaults are found here, in addition to the estates of powerful merchants.",
             "name": "Korranath",
             "notableLocations": {
                 "description": [],
@@ -157,7 +157,7 @@
     },
     "D1": {
         "lower": {
-            "description": "",
+            "description": "The skydocs of Precarious pass goods between the towers and the port of the Dagger River below. The district is filled with warehouses, along with a handful of poor taverns. A small community of Sarlonans lives here.",
             "name": "Precarious",
             "notableLocations": {
                 "description": [],
@@ -165,7 +165,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "The center of Sharn's nightlife before Menthis Plateau was built, Underlook is a collection of poor taverns and inns.",
             "name": "Underlook",
             "notableLocations": {
                 "description": [],
@@ -173,7 +173,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "Overlook is Noteworthy for its kalashtar community, which maintains a community center, a shrine devoted to the Path of Light, and a few restaurants serving Sarlonan cuisine.",
             "name": "Overlook",
             "notableLocations": {
                 "description": [],
@@ -183,7 +183,7 @@
     },
     "D2": {
         "lower": {
-            "description": "",
+            "description": "Another poor slum, largely home to dockworkers from Precarious.",
             "name": "Oldkeep",
             "notableLocations": {
                 "description": [],
@@ -191,7 +191,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "Once a proud residential district, Broken Arches has fallen into disrepair. Its housing is poor to modest in quality, though the shells of wealthy manors can still be seen.",
             "name": "Broken Arch",
             "notableLocations": {
                 "description": [],
@@ -199,7 +199,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "The finest residential district in Dura and the seat of House Vadalis, Highwater is largely comfortable in quality with a few wealthy estates.",
             "name": "Highwater",
             "notableLocations": {
                 "description": [],
@@ -209,7 +209,7 @@
     },
     "D3": {
         "lower": {
-            "description": "",
+            "description": "A or district originally inhabited by gblins, Malleon's Gate has become a haven for monstous immigrants from Droaam and Darguun, along with members of Daask.",
             "name": "Malleon's Gate",
             "notableLocations": {
                 "description": [],
@@ -217,7 +217,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "A poor residential district, Tumbledown has experienced a recent incursion from Daask.",
             "name": "Tumbledown",
             "notableLocations": {
                 "description": [],
@@ -225,7 +225,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "This district caters to adventurers, with a wide array of buisnesses aimed at explorers and fortune hunters. It is the home base of the Clifftop Adventurers' Guild.",
             "name": "Clifftop",
             "notableLocations": {
                 "description": [],
@@ -235,7 +235,7 @@
     },
     "D4": {
         "lower": {
-            "description": "",
+            "description": "A squalid slum, providing miserable housing for desperate people.",
             "name": "Gate of Gold",
             "notableLocations": {
                 "description": [],
@@ -243,7 +243,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "A jumble of architectural styles, Hareth's Folly is a place to gamble and enjoy modest food and drink. The Hollow Tower is a center for aerial sports, and Hareth's Folly is where the Race of Eight Winds begins and ends.",
             "name": "Hareth's Folly",
             "notableLocations": {
                 "description": [],
@@ -251,7 +251,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "A relatively new temple district, with shrines and churches that relocated from the Fallen in lower Dura. Hope's Peak includes several monasteries and sacred groves.",
             "name": "Hope's Peak",
             "notableLocations": {
                 "description": [],
@@ -261,7 +261,7 @@
     },
     "D5": {
         "lower": {
-            "description": "",
+            "description": "Home to an assortment of squalid and poor businesses, Callastan is a nexus for criminal activity and known as a stronghold of the Boromar Clan.",
             "name": "Callestan",
             "notableLocations": {
                 "description": [],
@@ -269,7 +269,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "The largest commercial district in Sharn, an excellent place to buy and sell used -- and possibly stolen -- goods.",
             "name": "The Bazaar",
             "notableLocations": {
                 "description": [],
@@ -287,7 +287,7 @@
     },
     "D6": {
         "lower": {
-            "description": "",
+            "description": "A warehhouse district with a large halfling population, with ties to the Borromar Clan.",
             "name": "The Stores",
             "notableLocations": {
                 "description": [],
@@ -295,7 +295,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "A comfortable residential district, Stormhold is home to the few powerful families that have remained in Dura. It's in better condition than most of Middle Dura, and Deneith mercenaries protect the streetsm.",
             "name": "Stormhold",
             "notableLocations": {
                 "description": [],
@@ -303,7 +303,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "Daggerwatch holds garrisons for both the Sharn Watch and the Brelish armym, along with business and residences for those who support the garrisons",
             "name": "Daggerwatch",
             "notableLocations": {
                 "description": [],
@@ -313,7 +313,7 @@
     },
     "D7": {
         "lower": {
-            "description": "",
+            "description": "Sharn's oldest temple district, Fallen was abandoned after a floating tower crashed into the district during the Last War. Now it's a collection of wretched ruins.",
             "name": "Fallen",
             "notableLocations": {
                 "description": [],
@@ -321,7 +321,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "Rattlestone is a tenement district. Its people have little but their pride, but there's a strong cammaraderie between them.",
             "name": "Rattlestone",
             "notableLocations": {
                 "description": [],
@@ -329,7 +329,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "A district built by dwarves for dwarves, Highhold has a strong Mror influences in its architecture. It's a good place to find Mror goods and its home to talented smiths and brewers.",
             "name": "Highhold",
             "notableLocations": {
                 "description": [],
@@ -339,7 +339,7 @@
     },
     "M1": {
         "lower": {
-            "description": "",
+            "description": "A district with a notorious reputation, celebrated for cheap enterntainment and infamous for its dangerus alleys. Its theaters secialize in musical comedy and lwbrow",
             "name": "Torchfire",
             "notableLocations": {
                 "description": [],
@@ -347,15 +347,15 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "Safer than the llower wards and less expensive than Upper Menthis, Smokey Towers has plenty of entertainment options. Smokey Towers has become a haven for Cyran refugees wealthy enough to avoid High Walls.",
             "name": "Smoky Towers",
             "notableLocations": {
-                "description": [],
-                "name": []
+                "description": ["Smokey Towers most popular venue.", "An intimate dinner theater known for its interactive performances.", "A burlesque theater run by changelings.", "Thovanic Hall has begun performing works from Darguun and Droaam featuring monsterous performers."],
+                "name": ["Classic Theater", "Dinner theater", "changeling burlesque", "Thovanic Hall"]
             }
         },
         "upper": {
-            "description": "",
+            "description": "Founded by gnome immigrants from Zilargo, Den'iyas is a haven for those interested in Zil culture. It's home to many sages and artisans, and a hotbed of schemes and intrigue.",
             "name": "Den'iyas",
             "notableLocations": {
                 "description": [],
@@ -365,7 +365,7 @@
     },
     "M2": {
         "lower": {
-            "description": "",
+            "description": "This district is a destination for those who seek ilicit forms of entertainment. Many forms of illigal gambling and paid companionship can be found in Firelight. It's als the most common location of the Burning Ring.",
             "name": "Firelight",
             "notableLocations": {
                 "description": [],
@@ -373,7 +373,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "Founded by Talenta halflings, this district includes a central campground for visiting halfling nomads. The permanent residents are mostly halflings as well. Talenta foods and crafts can be found here, along the displays of traditional skills and pastimes.",
             "name": "Little Plains",
             "notableLocations": {
                 "description": [],
@@ -399,7 +399,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "This district is a source of magical goods and services. Exotic components, magewrights for hire. common and uncommon magic items--all of these can be found here.",
             "name": "Everbright",
             "notableLocations": {
                 "description": [],
@@ -407,25 +407,25 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "This district is dominated by Morgrave Uniersity. It's also a nexus for sophisticated entertainment.",
             "name": "University District",
             "notableLocations": {
-                "description": [],
-                "name": []
+                "description": [" ",  " ", " ", " "],
+                "name": ["Morgrave University", "the Art Temple", "the Grand Stage", "the Grand Hall of Aureon"]
             }
         }
     },
     "M4": {
         "lower": {
-            "description": "",
+            "description": "The Downstairs district is primarily known for food and drinks. Though most of its taverns and inns are only modest in quality.",
             "name": "Downstairs",
             "notableLocations": {
-                "description": [],
-                "name": []
+                "description": [" serves some of the finest seafood in Sharn", "  is a recently successful venue, known for its avant-garde performances."],
+                "name": ["the Four Snails", "Diamond Theater"]
             }
         },
         "middle": {
-            "description": "",
+            "description": "A mercentile district with goods of modest to comfotable quality. Home to a significant number of immigrants from the Shadow Marches, Cassan Bridge is the place to visit for exotic Marcher herbs and cuisine.",
             "name": "Cassan Bridge",
             "notableLocations": {
                 "description": [],
@@ -433,11 +433,11 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "A shopping district, with resteraunts and goods of comfortable to wealthy quality.",
             "name": "Seventh Tower",
             "notableLocations": {
-                "description": [],
-                "name": []
+                "description": [" a collection of galleries whose owners buy and sell goods from Xen'drik."],
+                "name": ["Little Xen'drik"]
             }
         }
     },
@@ -451,15 +451,15 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "This district is the primary garrison of the Sharn Watch in Menthis. It's home to a community of Lhazaar immigrants.",
             "name": "Warden Towers",
             "notableLocations": {
-                "description": [],
-                "name": []
+                "description": [" a tavern catering to Lhazaar travelers."],
+                "name": ["Broken Anchor"]
             }
         },
         "upper": {
-            "description": "",
+            "description": "This residential district includes comfortable homes and modest apartments. Many of the student and faculty of Morgrave University live in Ivy Towers. ",
             "name": "Ivy Towers",
             "notableLocations": {
                 "description": [],
@@ -469,7 +469,7 @@
     },
     "N1": {
         "lower": {
-            "description": "",
+            "description": "The population of this peaceful residential district is mostly made up of dwarves, humand and half-eves. Neighbors here generally stand together to deal with trouble.",
             "name": "Longstairs",
             "notableLocations": {
                 "description": [],
@@ -477,7 +477,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "A center of worship for the people of Northedge, High Hope includes temples of the Silver Flame and the Sovereign Host, along with smaller shrines. It lacks the grandeur of Sovereign Towers in Central Plateau, but has an atmosphere of solemn devotion.",
             "name": "High Hope",
             "notableLocations": {
                 "description": [],
@@ -485,7 +485,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "This district is a bastion for the culture and traditions of the elves of Aerenal. It includes a variety of businesses specializing in Aerenal goods, as well as a temple to the Undying Court.",
             "name": "Shae Lias",
             "notableLocations": {
                 "description": [],
@@ -495,11 +495,11 @@
     },
     "N2": {
         "lower": {
-            "description": "",
+            "description": "This residential district is home to the majority of Sharn's shifters, including both recent immigrants from the Edeen Reaches and long established local families. Conditions are poor to modest.",
             "name": "Stoneyard",
             "notableLocations": {
-                "description": [],
-                "name": []
+                "description": [" ", " "],
+                "name": ["makeshift hrazhak court", "shrine to the Wardens of the Wood"]
             }
         },
         "middle": {
@@ -511,7 +511,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "A residential district where housing ranges from comfortable to aristocratic. Construction in Oak Towers uses materials and styles drawn from Aerenal, and the district is home to many of Sharn's established elf and half-elf families.",
             "name": "Oak Towers",
             "notableLocations": {
                 "description": [],
@@ -521,7 +521,7 @@
     },
     "N3": {
         "lower": {
-            "description": "",
+            "description": "The open market in this region largely deals in simple, locally produced goods. Due to the significant shifter population in Lower Northedge, North Market offers goods and services aimed at shifters (grooming services, claw care and so forth) as well as reflecting an Eldeen influence.",
             "name": "North Market",
             "notableLocations": {
                 "description": [],
@@ -529,7 +529,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "Holdfast is the heart of Sharn's dwarf population. The ancestors of the Holdfast dwarves helped build Sharn and many of its people are stonemasons, architects, and smiths. Holdfast dwarves are proud of their Sharn roots and have little interest in Mror customs and traditions.",
             "name": "Holdfast",
             "notableLocations": {
                 "description": [],
@@ -537,7 +537,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "A peacuful residential district with many wealthy and aristocratic estates.",
             "name": "Crystal Bridge",
             "notableLocations": {
                 "description": [],
@@ -547,7 +547,7 @@
     },
     "T1": {
         "lower": {
-            "description": "",
+            "description": "This district is based around Terminus Station, where the lightning rail enters and leaves Sharn. Most local businesses serve the station or the travelers.",
             "name": "Terminus",
             "notableLocations": {
                 "description": [],
@@ -555,7 +555,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "This district specializes in produce and other goods brought in by farmers froom the surrounding countryside.",
             "name": "Tavick's Market",
             "notableLocations": {
                 "description": [],
@@ -563,7 +563,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "This shopping district is patronized by those with gold to spare. All manner of fine jewelry and expensive clothing can be found here, along with aristocratic food and lodging.",
             "name": "Silvergate",
             "notableLocations": {
                 "description": [],
@@ -573,7 +573,7 @@
     },
     "T2": {
         "lower": {
-            "description": "",
+            "description": "Travelers who arrive on the main road enter Sharn through Wroann's Gate, passing below a huge statue of the legendary Queen Wroaan. Many of the dragonmarked houses maintain shops here so travelers can send messages, hire bodyguards, or make use of other services.",
             "name": "Wroann's Gate",
             "notableLocations": {
                 "description": [],
@@ -581,7 +581,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "A haven for travelers, Cornerstone has a range from comfortable inns and taverns. It's built around the vast Cornerstone arena and is the center of activity for many major sporting events.",
             "name": "Cornerstone",
             "notableLocations": {
                 "description": [],
@@ -599,7 +599,7 @@
     },
     "T3": {
         "lower": {
-            "description": "",
+            "description": "This warehouse district is the gateway to the Cogs, and shipments of ore and other goods regularly pass through here. House Kundarak has high-security facilities for rent, and a House Deneith outpost hires out Blademark mercenaries for ventures below.",
             "name": "Cogsgate",
             "notableLocations": {
                 "description": [],
@@ -607,7 +607,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "This district was funded long ago by Karnathi immigrants, and its people are proud of their heritage. Its a haven for any Karnathi travelers passing through Sharn. Rumours say there's a temple devoted to the Blood of Vol in Greywall, but if that's the case, it's kept hidden.",
             "name": "Graywall",
             "notableLocations": {
                 "description": [],
@@ -615,7 +615,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "This is the civic heart of Upper Travick's Landing. The Twelve Pillars are named for the twelve columns that surround the courthouse, known as the Tower of Law, where visitors can obtain a license to carry weapons in the ward.",
             "name": "Twelve Pillars",
             "notableLocations": {
                 "description": [],
@@ -625,7 +625,7 @@
     },
     "T4": {
         "lower": {
-            "description": "",
+            "description": "This district was converted into an internment center during the Last War. Since the end of the war, its been transformed into a refugee camp. Most of the residents are Cyrans who fled the Mourning, but High Walls includes Brelish citizens who lost their homes in the war. It's a crowded and dangerous place, but allows the residents to maintain a squalid lifestyle at no cost. Currently the gates are open, but the Sharn Watch could seal them at any time.",
             "name": "High Walls",
             "notableLocations": {
                 "description": [],
@@ -641,7 +641,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "This district is built around the Deneith garrison that polices the upper ward. It cntains shops and services catering to the wealthy elite.",
             "name": "Copper Arch",
             "notableLocations": {
                 "description": [],
@@ -651,7 +651,7 @@
     },
     "T5": {
         "lower": {
-            "description": "",
+            "description": "Dragoneyes tends to the needs of weary travelers, providing a wide range of lodging, food, and entertainment foor tourists. It's also the home of most of Sharn's changeling population, and many chengelings use their gifts to entertain and amuse travelers. Some say that its the home of the Tyrants criminal guild, but if so, that place is well hidden.",
             "name": "Dragoneyes",
             "notableLocations": {
                 "description": [],
@@ -659,7 +659,7 @@
             }
         },
         "middle": {
-            "description": "",
+            "description": "Named for the nearby City of the Dead, this district houses the Deathsgate Guild and businesses that cater to adventurers. House Deneith recruits merceneries at its outpst here.",
             "name": "Deathsgate",
             "notableLocations": {
                 "description": [],
@@ -677,7 +677,7 @@
     },
     "T6": {
         "lower": {
-            "description": "",
+            "description": "This district is filled with checkpoints and enchanted gates. these portals are generally open, but in times of trouble, Black Arch can become a impassible fortress. the Sharn Watch maintains the local garrison. House Orien and House Sivis bth maintain outposts here, ensuring that messages can be swiftly delivered through the city and beyond.",
             "name": "Black Arch",
             "notableLocations": {
                 "description": [],
@@ -693,7 +693,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "This residential district is home to some of the most influential citizens of Sharn. It has a mix of wealthy mansions and aristocratic estates.",
             "name": "Ocean View",
             "notableLocations": {
                 "description": [],
@@ -719,7 +719,7 @@
             }
         },
         "upper": {
-            "description": "",
+            "description": "This district provides housing fr the shopkeepers and servants who keep Upper Travick's Landing running. Housing is largly modest in quality, with a few comfortable towers.",
             "name": "Sunrise",
             "notableLocations": {
                 "description": [],
@@ -732,7 +732,7 @@
         "name": "Central Plateau"
     },
     "cliffside": {
-        "description": "Far below most of the bustle of the main city, the docks of Cliffside cling precariously to the steep banks of the Dagger River.",
+        "description": "Boats bring cargo and passangers to the docks at Cliffside, on the edge of the Dagger River. From there, enormous lifts carry people up to Precarious. This dangerous district contains an assortment of taverns, shabby inns, and warehouses. ",
         "name": "Cliffside"
     },
     "dura": {
